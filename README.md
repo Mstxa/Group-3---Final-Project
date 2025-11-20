@@ -80,7 +80,6 @@ lib/
 
 ### **Utils**
 - **date_utils.dart** — Date formatting helpers  
-- **notifications.dart** — Local notifications setup & scheduling  
 
 ---
 
