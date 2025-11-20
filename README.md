@@ -103,7 +103,7 @@ flowchart TD
 |------------|---------|
 | id         | INTEGER PRIMARY KEY |
 | date       | TEXT    |
-| moodValue  | INTEGER |
+| mood  | INTEGER |
 | note       | TEXT    |
 
 ---
