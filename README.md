@@ -142,6 +142,6 @@ MIT License — free to use & modify.
 ---
 
 ## 👩‍💻 Credits
-## Developed by **Supitsara T. and Atichat K.**  
-## Project for learning Flutter development & emotional tracking.
-=======
+Developed by **Supitsara T. and Atichat K.**  
+Project for learning Flutter development & emotional tracking.
+---
