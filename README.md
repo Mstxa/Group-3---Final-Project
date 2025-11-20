@@ -1,22 +1,21 @@
-# 📓 Daily Mood Journal
+# Daily Mood Journal
 
 A complete Flutter application for daily emotion tracking, journaling, analytics, and reminders.  
 Designed with Provider state management, SQLite local database, and modular Flutter architecture.
 
 ---
 
-## ✨ Features
-- 🌞 Daily mood logging with notes  
-- 📅 History of past entries  
-- 📊 Statistics dashboard (mood frequency & summary)  
-- 🔔 Daily reminder notifications  
-- 🌙 Light/Dark mode  
-- 💾 Offline-first local SQLite storage  
-- 🧩 Clean modular architecture (models, providers, screens, widgets)
+## Features
+- Daily mood logging with notes  
+- History of past entries  
+- Statistics dashboard (mood frequency & summary)  
+- Light/Dark mode  
+- Offline-first local SQLite storage  
+- Clean modular architecture (models, providers, screens, widgets)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Flutter**  
 - **Dart**  
 - **Provider** (state management)  
@@ -25,7 +24,7 @@ Designed with Provider state management, SQLite local database, and modular Flut
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 lib/
 ├── main.dart
@@ -57,7 +56,7 @@ lib/
 
 ---
 
-## 🧩 Component Overview
+## Component Overview
 
 ### **Models**
 - **mood_entry.dart** — MoodEntry model with id, date, moodValue, note  
@@ -86,7 +85,7 @@ lib/
 
 ---
 
-## 📲 UI Flow (Mermaid)
+## UI Flow (Mermaid)
 ```mermaid
 flowchart TD
     A[Today Screen] -->|Save| B[History Screen]
@@ -97,7 +96,7 @@ flowchart TD
 
 ---
 
-## 🗄 Database Schema
+## Database Schema
 ### **Table: mood_entries**
 | Column     | Type    |
 |------------|---------|
@@ -108,7 +107,7 @@ flowchart TD
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Install packages:
 ```
@@ -120,17 +119,3 @@ flutter pub get
 flutter run
 ```
 
----
-
-## 🔮 Future Improvements
-- Firebase sync  
-- Better charts  
-- Export PDF  
-- Widgets for Android/iOS  
-- Mood trends AI analysis  
-
----
-
-## 👩‍💻 Credits
-Developed by **Supitsara T. and Atichat K.**  
-Project for learning Flutter development & emotional tracking.
