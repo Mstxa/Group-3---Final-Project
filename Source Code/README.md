@@ -20,7 +20,6 @@ Designed with Provider state management, SQLite local database, and modular Flut
 - **Dart**  
 - **Provider** (state management)  
 - **SQLite (sqflite)**  
-- **flutter_local_notifications**  
 
 ---
 
@@ -63,13 +62,13 @@ lib/
 
 ### **Providers**
 - **mood_provider.dart** — CRUD for mood entries + today's entry logic  
-- **settings_provider.dart** — Theme mode & notification settings  
+- **settings_provider.dart** — Theme mode
 
 ### **Screens**
 - **today_screen.dart** — Record today’s mood  
 - **history_screen.dart** — List of past entries  
 - **stats_screen.dart** — Mood frequency summary  
-- **settings_screen.dart** — Theme & notification settings  
+- **settings_screen.dart** — Theme
 
 ### **Widgets**
 - **entry_card.dart** — Mood log card for history  
@@ -80,7 +79,6 @@ lib/
 
 ### **Utils**
 - **date_utils.dart** — Date formatting helpers  
-- **notifications.dart** — Local notifications setup & scheduling  
 
 ---
 
