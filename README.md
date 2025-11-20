@@ -120,11 +120,6 @@ flutter pub get
 flutter run
 ```
 
-### Build Release:
-```
-flutter build apk --release
-```
-
 ---
 
 ## 🔮 Future Improvements
