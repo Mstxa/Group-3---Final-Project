@@ -50,8 +50,7 @@ lib/
 │   └── app_database.dart
 │
 └── utils/
-    ├── date_utils.dart
-    └── notifications.dart
+    └── date_utils.dart
 ```
 
 ---
