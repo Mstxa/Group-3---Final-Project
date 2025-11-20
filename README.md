@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 📓 Daily Mood Journal
 
 A complete Flutter application for daily emotion tracking, journaling, analytics, and reminders.  
